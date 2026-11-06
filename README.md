@@ -8,7 +8,9 @@
 
 ## 在线预览
 
-GitHub Pages 部署完成后，这里会提供可直接访问的链接。
+**https://joruno-ai.github.io/hoshimart-diorama/**
+
+也可以直接打开仓库中的自包含文件 [`index.html`](./index.html)。
 
 ![店内陈设与收银台](./docs/storefront.jpg)
 
