@@ -1,0 +1,13 @@
+node_modules/
+.npm-cache/
+.pipeline/
+.secrets/
+.tools/
+shots/
+dist/
+public/
+scripts/*
+!scripts/build.mjs
+雨夜便利店.html
+.DS_Store
+*.log
