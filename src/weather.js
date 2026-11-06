@@ -91,7 +91,7 @@ function makeSky(scene) {
       }
     `,
   });
-  const sky = new THREE.Mesh(new THREE.SphereGeometry(95, 48, 28), skyMat);
+  const sky = new THREE.Mesh(new THREE.SphereGeometry(280, 64, 36), skyMat);
   sky.frustumCulled = false;
   sky.renderOrder = -10;
   scene.add(sky);

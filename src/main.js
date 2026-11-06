@@ -33,7 +33,7 @@ const scene = new THREE.Scene();
 const environment = makeNightEnvironment();
 scene.environment = environment;
 scene.environmentIntensity = 0.85;
-const camera = new THREE.PerspectiveCamera(31, window.innerWidth / window.innerHeight, 0.1, 220);
+const camera = new THREE.PerspectiveCamera(31, window.innerWidth / window.innerHeight, 0.1, 500);
 const target = new THREE.Vector3(-1.0, 1.18, -0.3);
 const viewDirection = new THREE.Vector3(0.559, 0.258, 0.786).normalize();
 
